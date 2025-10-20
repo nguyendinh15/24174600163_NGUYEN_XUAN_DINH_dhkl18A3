@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ds-sinhvien>
+    <sinhvien>
+      <masv>24174600131</masv>
+      <tensv>Duong Thanh Toan</tensv>
+      <namsinh>2006</namsinh>
+      <lop>DHKL18A3HN</lop>
+      <gioitinh>Nam</gioitinh>
+    </sinhvien>
+  
+    <sinhvien>
+        <masv>24174600124</masv>
+        <tensv>Phan Huong Giang</tensv>
+        <namsinh>2006</namsinh>
+        <lop>DHKL18A3HN</lop>
+        <gioitinh>Nu</gioitinh>
+    </sinhvien>
+  
+</ds-sinhvien>
+  
+  
+  
